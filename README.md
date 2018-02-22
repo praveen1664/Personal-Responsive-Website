@@ -1,2 +1,3 @@
 # Personal-Responsive-Website
-# personal-responsive-website
+
+Personal responsive website inquiry form
