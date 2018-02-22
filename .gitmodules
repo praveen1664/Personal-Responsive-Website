@@ -1,0 +1,4 @@
+[submodule "cake-management"]
+	path = cake-management
+	url = https://github.com/isaaguilar/cake-management
+    ignore = dirty
